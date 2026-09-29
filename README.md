@@ -4,7 +4,7 @@
 
 I turn data into actionable insights by combining analytics, machine learning and business understanding.
 
-Based in San Carlos de Bariloche, Argentina 🇦🇷  
+Based in San Carlos de Bariloche, Argentina
 Currently looking for opportunities as a **Data Analyst or Data Scientist Jr.**
 
 ---
